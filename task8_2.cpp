@@ -1,3 +1,4 @@
+
 /* Question-2 
 Write a program to print duplicate characters from a string?
 */
